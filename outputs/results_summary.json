@@ -1,0 +1,13 @@
+{
+  "validation_cost_default_threshold": 9270,
+  "validation_cost_tuned_threshold": 5530,
+  "best_threshold": 0.01,
+  "ensemble_validation_cost": 5520,
+  "single_model_validation_cost": 5530,
+  "final_test_cost": 14920,
+  "test_positive_rate": 0.0234375,
+  "train_positive_rate": 0.016666666666666666,
+  "leaderboard_1st": 9920,
+  "leaderboard_2nd": 10900,
+  "leaderboard_3rd": 11480
+}
