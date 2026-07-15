@@ -62,7 +62,7 @@ Python, pandas, NumPy, scikit-learn, XGBoost, SHAP, Jupyter
 └── README.md
 ```
 
-## Honest Limitations
+## Limitations
 
 - Feature anonymization prevents physically grounded interpretation of SHAP results.
 - Ensemble approach did not outperform a single tuned model — included here as a tested comparison, not a recommended architecture.
